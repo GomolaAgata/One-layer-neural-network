@@ -1,0 +1,87 @@
+Der Blutdruck ist der Druck (Kraft pro Fläche) des Blutes in einem Blutgefäß. Er ist direkt abhängig vom Herzzeitvolumen und vom Gefäßwiderstand. Er ist in der Aorta am größten und sinkt auf dem Weg des Blutes durch den Blutkreislauf über Arterien, Kapillaren und Venen immer weiter ab, bis wieder das Herz erreicht ist. Üblicherweise ist mit „dem Blutdruck“ der Druck in den größeren Arterien gemeint. In einem gesunden Körper regelt sich der Blutdruck von selbst. Erhöhter Blutdruck wirkt sich nachteilig auf Gesundheit und Lebenserwartung aus, wird aber oft subjektiv nicht wahrgenommen. Der Blutdruck sollte daher von Zeit zu Zeit gemessen werden. Der Blutdruck wird meist in mmHg (Millimeter Quecksilbersäule) angegeben;[1] innerhalb der EU ist dies auch die gesetzliche Maßeinheit.[2]
+Allgemeines
+In verschiedenen Bereichen des Blutkreislaufs herrschen unterschiedliche Druckverhältnisse. Spricht man ohne näheren Zusatz vom Blutdruck, dann meint man in der Regel den arteriellen Druck in den großen Schlagadern auf Herzhöhe (BD oder BP, gebräuchlich ist auch RR für Riva-Rocci), der meistens an der Brachialarterie des Oberarmes gemessen wird. Daneben ist auch der zentralvenöse Druck von medizinischem Interesse.
+
+Die Blutdruckmesswerte sind Überdrucke gegenüber der Atmosphäre und werden üblicherweise nicht in der an sich korrekten SI-Einheit Pascal (Pa), sondern in der traditionellen Einheit mmHg (Millimeter Quecksilbersäule) angegeben, weil früher für die Druckmessung üblicherweise Quecksilbermanometer verwendet wurden.
+
+Die Angabe des arteriellen Drucks erfolgt konventionell als Zahlenpaar aus systolischem (maximaler Wert, ist unter anderem abhängig von der Herzauswurfleistung) und diastolischem Druck (minimaler Wert, in der Herzfüllungsphase und deshalb unter anderem auch abhängig von der Elastizität und dem Füllungszustand der großen Gefäße). Man sagt bei einem Blutdruck von beispielsweise 105 mmHg während der Systole und 70 mmHg in der Diastole dann „105 zu 70“, geschrieben „105/70 mmHg“.
+
+Der Blutdruck beträgt unter Normalbedingungen und ohne Berücksichtigung individueller Abweichungen beim erwachsenen Menschen etwa 120/80 mmHg. In Ruhe beträgt der normale systolische arterielle Druck 13,3–17,4 kPa (100–130 mmHg) und der diastolische Wert 8,0–11,3 kPa (60–85 mmHg). Darüber hinaus sind der mittlere arterielle Druck und die Pulsamplitude (Differenz zwischen systolischem und diastolischem arteriellen Druckwert) von Bedeutung. Die mittleren Blutdruckangaben entsprechen denen im Liegen. Im Sitzen und im Stehen ist der Blutdruck aufgrund der Schwerkraft in der unteren Körperhälfte höher als im Liegen, während er oberhalb der hydrostatischen Indifferenzebene niedriger ist als im Liegen.
+
+Ab 140/90 mmHg (früher ab 160/95 mmHg[3]) spricht man beim erwachsenen Menschen international definiert von Bluthochdruck (arterielle Hypertonie), der sich nachteilig auf Gesundheit und Lebenserwartung auswirkt. Dieser Wert wird auch in den gemeinsamen Leitlinien der europäischen Gesellschaften für Hypertonie und Kardiologie in der Fassung von 2013 als Maximalwert für fast alle Patienten empfohlen.[4] Ein hoher Blutdruck, der mitunter lange Zeit ohne Beschwerden verlaufen kann, gilt als Risikofaktor für Arteriosklerose und Herz-Kreislauf-Erkrankungen – im Speziellen Herzinfarkt und Schlaganfall. Bei systolischen Werten unter 100 bzw. 90 spricht man hingegen von Blutunterdruck (arterielle Hypotonie). Ein niedriger Blutdruck ist allerdings in der Regel nur behandlungsbedürftig, falls er mit symptomatischen Beschwerden für den Betroffenen einhergeht.
+
+Der Blutdruck eines einjährigen Menschen beträgt normalerweise etwa 80–105/55–70, ein Neugeborenes weist Werte von 65–85/35–45 mmHg auf, Frühgeborene zeigen Werte von 55–75/35–45, sechs- bis zwölfjährige Kinder 95–110/60–75 mmHg. Nach dem zwölften Lebensjahr sind dann Blutdruckwerte von 110–135/65–85 normal.[5]
+
+Physiologie des arteriellen Drucks
+Zur Vereinfachung soll zunächst nicht der in der Frequenz des Herzschlags schwankende Augenblickswert des arteriellen Blutdrucks, sondern der mittlere arterielle Druck betrachtet werden. Die Differenz
+zwischen mittlerem arteriellen Blutdruck und zentralem Venendruck wird auch als arteriovenöse Druckdifferenz bezeichnet; sie ist der Antrieb für den Blutstrom durch den Körperkreislauf, so wie die elektrische Spannung der Antrieb für den Strom ist. Der Stromstärke entspricht im Blutkreislauf das pro Zeitspanne vom Herzen gepumpte Volumen
+das als Herzzeitvolumen bezeichnet wird. Schließlich gibt es auch einen Widerstand
+ für den Blutstrom, den totalen peripheren Widerstand. Zwischen diesen Größen besteht ein Zusammenhang, der dem ohmschen Gesetz entspricht:
+
+Die Gleichung gilt im Prinzip auch, wenn man statt des Herzzeitvolumens (als mittlerem Volumenstrom) Augenblickswerte des Blutstroms einsetzt. Aus dem inkonstanten Blutauswurf des Herzens erklärt sich dann die periodische Schwankung des arteriellen Blutdrucks um den Mitteldruck: Der systolische Blutdruck resultiert aus dem Blutstrom, den das Herz während der Austreibungsphase erzeugt. Die herznahen Arterien sind vom elastischen Typ; sie werden während der Systole gedehnt und entziehen dem Blutstrom damit Volumen, wodurch der systolische Druck geringer ausfällt. Angetrieben von der Wandspannung wird das zwischengespeicherte Blut während der Diastole wieder abgegeben (Windkesseleffekt), woraus sich der diastolische Blutdruck ergibt. Die Dehnbarkeit wird durch die Größe Compliance (Volumenänderung pro Druckänderung) quantifiziert.
+
+Kenngrößen des arteriellen Drucks sind demnach der systolische Druck (Maximaldruck), der diastolische Druck (Minimaldruck) und der Pulsdruck (Differenz systolischer/diastolischer Druck). Sie werden folgendermaßen beeinflusst:
+
+Eine Verminderung der Compliance (wie sie als Arteriosklerose bei fast jedem alternden Menschen auftritt) vergrößert den Pulsdruck: Der systolische Druck steigt, der diastolische Druck sinkt, der mittlere arterielle Druck bleibt (ceteris paribus) unverändert.
+Systolischer Druck, diastolischer Druck und Pulsdruck sind proportional zum Herzzeitvolumen, bei einer Erhöhung steigt der systolische Druck also stärker als der diastolische. Die Erhöhung des Herzzeitvolumens bei dynamischer körperlicher Arbeit ist von einer Senkung des peripheren Widerstands begleitet, so dass unter diesen Umständen eine isolierte Erhöhung des systolischen Drucks beobachtet werden kann.
+Eine Erhöhung des peripheren Widerstands steigert systolischen und diastolischen Blutdruck etwa um den gleichen Betrag, der Pulsdruck bleibt also im Idealfall unverändert. Findet gleichzeitig eine Senkung des Herzzeitvolumens statt, kann sich ein isolierter Anstieg des diastolischen Blutdrucks ergeben; ein Beispiel hierfür ist die Kreislaufregulation bei Kälte.
+Im Jahr 1967 eröffnete die World Federation of Societies of Anesthesiologists (WFSA)[31] in Caracas/Venezuela das erste Internationale Anästhesie-Ausbildungszentrum.[32]
+
+Zu einer der Säulen der Anästhesiologie gehört die Notfallmedizin und insbesondere die Anwendung von Verfahren der Herz-Lungen-Wiederbelebung. Die äußere Herzmassage als Methode der Wiederbelebung wurde 1960 von dem Elektroingenieur William B. Kouwenhoven mit den Medizinern James R. Jude und G. G. Knickerbocker in den USA entwickelt.[33]
+
+Stark vertreten sind Anästhesisten auch bei der „Woche der Wiederbelebung“, die seit 2013 im Rahmen der Kampagne „Ein Leben retten. 100 Pro Reanimation“ jedes Jahr im September mit Unterstützung des Bundesgesundheitsministeriums stattfindet. Ziel dieser Kampagne und der Aktionswoche ist es, die Laienreanimationsrate in Deutschland zu erhöhen.[34]
+
+Vor dem Hintergrund des Klimawandels und der medizinischen Relevanz planetarer Gesundheit wurde 2020 die Berücksichtigung der CO2e-Emissionsreduktion bei der Durchführung von Anästhesien aufgeworfen. So seien insbesondere volatile Anästhetika wie Desfluran zu vermeiden.[35]
+Werner Sauerwein war der Sohn des Dentisten Peter Sauerwein und seiner Ehefrau Eva Clasen. 1939 machte er sein Abitur an der Kahlkuschen Oberschule in Oberkassel. 1940 nahm er das Studium der Medizin in Bonn auf, musste aber bereits im Frühjahr 1941 im Rahmen des Zweiten Weltkriegs zur Wehrmacht und wurde in der damaligen Sowjetunion verwundet. 1942 konnte er in Heidelberg sein Studium fortsetzen. Im Wintersemester 1943/44 arbeitete er im anatomischen Institut der Ruprecht-Karls-Universität Heidelberg, ehe er im Januar 1945 an die Ostfront versetzt wurde.[3]
+
+Nach dem Zweiten Weltkrieg konnte er im Dezember 1945 das Studium und die Arbeit im Institut in Heidelberg wieder aufnehmen und 1947 das Studium der Medizin abschließen. Im gleichen Jahr wurde er mit seiner Dissertation Über die Befestigung des Plexus brachialis an den Foramina intervertebralia der Halswirbelsäule promoviert.[3]
+
+Am 20. März 1948 heiratete er Inge Sauerwein, geb. Walter in Saarbrücken. Werner Sauerwein schloss 1949/50 in Lyon die Ausbildung zum Facharzt der Anästhesie ab. Ab 1950 arbeitete er zunächst als Assistenzarzt unter Fritz Hesse im heutigen Klinikum Saarbrücken[1] und wurde beauftragt, für das damals noch unabhängige Saarland eine Anästhesie- und Beratungszentrale aufzubauen.
+
+Am 27. Mai 1953 erhielt Werner Sauerwein die Facharztanerkennung als Anästhesist und war somit der erste zugelassene Anästhesist in Deutschland. Er war Gründungsmitglied der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin.[4]
+
+che Gesellschaft
+Wasserspiegel
+Zur Navigation springenZur Suche springen
+
+Wehr an der Isar beim Hinterbrühler See
+
+Unterirdischer Wasserspiegel in den St. Beatus-Höhlen
+Als Wasserspiegel bezeichnet man in Geowissenschaft und Technik die geglättete Form einer freien, weitgehend ungestörten Wasserfläche, wie sie sich unter dem Einfluss der Schwerkraft einstellt.
+
+Ein derart geglätteter Wasserspiegel stellt eine Äquipotentialfläche dar, in der kommunizierende Gefäße exakt denselben Wert des Schwerepotentials haben. Davon zu unterscheiden sind die Begriffe „Wasserstand“ (s. unten) und Pegel. Die Theorie der Äquipotentialflächen gilt in Flüssigkeitsbehältern aller Art oder in Rohrleitungen, wenn sie nicht unter Druck stehen und keine merkliche Adhäsion oder Reibung besitzen.
+
+
+Inhaltsverzeichnis
+1	Hydrologie
+1.1	Unterschied Wasserspiegel – Wasserstand
+1.2	Idealisierte, glatt verlaufende Fläche
+2	Spiegelart
+3	Naturwissenschaft und Psychologie
+4	Weblinks
+Hydrologie
+Wenn außer dem Luftdruck noch andere Kräfte wirken, treten Strömungen und Wellen auf. Durch Mittelung wiederholter Messungen über eine gewisse Zeit kann man die ungestörte Oberfläche bestimmen, die überall normal auf die Lotlinien steht. Bei anspruchsvolleren Aufgaben wird statt der Mittelung eine sogenannte Reduktion der Messdaten vorgenommen, wobei die störenden Kräfte mathematisch zu modellieren sind.
+
+Die betrachtete Wasserfläche kann die Oberfläche von Meeren (siehe Geoid) oder von Binnengewässern sein (Flüsse, größere Bäche, Höhlenwasser).
+
+Unterschied Wasserspiegel – Wasserstand
+Demgegenüber meint der Terminus „Wasserstand“ etwas anderes:
+
+er kann auf eine definierte Höhe über dem Meeresspiegel wie etwa das Normalhöhennull oder den Meter über Adria bezogen bzw. umgerechnet sein
+es kann ein Gefälle und daher ein Fließen existieren
+werden einige der o.a. Mittelungen je nach Anwendung nicht vorgenommen,
+sodass sich der „Wasserstand eines Gewässers“ zumindest mit den Gezeiten ändert – siehe Hoch- und Niederwasser, Ebbe und Flut.
+Idealisierte, glatt verlaufende Fläche
+Während kleinräumig – etwa in der Labortechnik – nur geringe Einflüsse den Wasserspiegel stören (beispielsweise die Rand- und Oberflächenspannung), ist dies in der freien Natur anders. Dort wird der Wasserspiegel als dynamischer Mittelwert einer idealisierten, glatt verlaufenden Oberfläche definiert und vor allem von folgenden Einflüssen abstrahiert:
+
+kurzperiodischem Wellengang (nicht hingegen von Perioden über etwa 1 Minute)
+Störungen durch Fahrzeuge und ihrer allfälligen Staueffekte
+kurzfristigen Windeinflüssen wie Böen
+bei lokalen Anwendungen eventuell von der Erdkrümmung (bei Berücksichtigung der Erdkrümmung, die auf 100 Meter bereits fast 1 mm ausmacht, wird aus einer horizontalen Tangentialebene eine Niveaufläche der Erde)
+Gezeiten
+meist auch von längerfristigen Windstaueffekten, wie Driftstrom und Kompensationsstrom in geschlossenen Meeren
+Spiegelart
+Vor der Nutzbarmachung von polierten Metallen und Gläsern dienten Wasserspiegel als Spiegel, was in der antiken Sage von Narziss thematisiert wird: Narziss sieht im Wasserspiegel zum ersten Mal sich selbst. Fiktive Wasserspiegel dienten im 19. Jahrhundert zur Rechtfertigung der Beleuchtungsrichtung des Rampenlichts im Theater. Bis heute werden die Reflexionen von Wasserspiegeln in Landschaftsarchitektur oder Lichtkunst genutzt und sind eine Herausforderung für künstlerische Abbildungen.
+
+Naturwissenschaft und Psychologie
+Abweichungen vom Normal der horizontalen glatten Fläche spielen in zahlreichen Experimenten und wissenschaftlichen Demonstrationen eine Rolle. Isaac Newton verwendete in seinem Eimerversuch einen Wasserspiegel, um die Gravitationskräfte in einem rotierenden Gefäß zu zeigen. Jean Piaget stellte Versuchspersonen im Zusammenhang mit seiner „Theorie der geistigen Entwicklung“ auf die Probe, indem er sie den Wasserspiegel in einem geneigten Glas einzeichnen ließ.für Anästhesiologie und Intensivmedizin e. V. (DGAI) ist eine medizinische Fachgesellschaft mit über 15.000 (Stand 2022) Mitgliedern. Sie wurde am 10. April 1953 anlässlich des 70. Jahreskongresses der Deutschen Gesellschaft für Chirurgie in München als Deutsche Gesellschaft für Anaesthesie gegründet. Gründungsvorsitzender der Deutschen Arbeitsgemeinschaft für Anästhesiologie und der Deutschen Gesellschaft für Anästhesie von 1952 bis 1953 war Richard Heinz-Joachim (Jochen) Bark (1918–1963). Laut Satzung hat die Gesellschaft sich die Aufgabe gestellt, „Ärzte zur gemeinsamen Arbeit am Ausbau und Fortschritt der Anästhesiologie, Intensivmedizin, Notfallmedizin und Schmerztherapie zu vereinen und auf diesen Gebieten die bestmögliche Versorgung der Bevölkerung sicherzustellen.“ Ihr Ziel ist die Weiterentwicklung des Faches Anästhesiologie mit seinen Teilbereichen Anästhesie und Intensivmedizin sowie Notfall-, Schme
