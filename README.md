@@ -1,6 +1,8 @@
 # One-Layer Neural Network for Text Language Classification
 
-This project implements a one-layer neural network that classifies texts based on their language.
+This project was realized during the **Artificial Intelligence Tools** course at the Polish-Japanese Academy of Information Technology.
+
+Project implements a one-layer neural network that classifies texts based on their language.
 
 ## Key Features
 
